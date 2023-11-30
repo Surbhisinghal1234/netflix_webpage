@@ -1,0 +1,221 @@
+@media screen and (min-width: 320px) and (max-width:570px) {
+    .tv_img {
+        width: unset !important;
+        height: unset !important;
+        padding-right: unset !important;
+        position: unset !important;
+        z-index: unset !important;
+        margin-bottom: 2rem !important;
+    }
+
+    .phone_imgbox {
+        width: unset !important;
+        height: 320px;
+    }
+
+    .our_tv {
+        position: unset !important;
+        height: unset !important;
+    }
+
+    .shows {
+
+        height: unset !important;
+    }
+
+    .children_imgbox {
+        width: unset !important;
+        height: unset !important;
+    }
+
+    .tv_video video {
+        position: unset !important;
+    
+    }
+    .tv_video{
+        text-align: center !important;
+    }
+
+    .watch_video video {
+        position: unset !important;
+
+        height: unset !important;
+    }
+
+    .watch_video video {
+        position: unset !important;
+
+    }
+
+    .back_img {
+        height: unset !important;
+    }
+
+    .get_btn {
+        text-align: center;
+        margin: 2rem 0 !important;
+    }
+
+    .watch {
+        padding: 10px !important;
+    }
+
+    .our_tv {
+        padding: 0 0 2rem 0 !important;
+    }
+
+    .watch_tv_img {
+        width: unset !important;
+    }
+
+    .watch_video {
+
+        text-align: center;
+        height: unset;
+    }
+
+    .watch_content_box {
+        padding: 2rem !important;
+    }
+
+    .position_img {
+
+        width: unset !important;
+    }
+
+    .profile {
+        padding: unset !important;
+    }
+
+    .things {
+        text-align: center;
+        padding: 1rem 0 !important;
+
+    }
+
+    .icon_imgbox {
+
+        margin: auto !important;
+        text-align: center !important;
+        margin-bottom: 1rem !important;
+    }
+
+    .footer_address {
+        text-align: center;
+    }
+    .lang_img {
+        position: absolute;
+         top: unset !important; 
+         left: unset !important; 
+    }
+
+}
+@media screen and (min-width:768px) and (max-width:990px) {
+    .tv_img {
+        width: unset !important;
+        height: unset !important;
+        padding-right: unset !important;
+        position: unset !important;
+        z-index: unset !important;
+        margin-bottom: 2rem !important;
+    }
+
+    .phone_imgbox {
+        width: unset !important;
+        height: 320px;
+    }
+
+    .our_tv {
+        position: unset !important;
+        height: unset !important;
+    }
+
+    .shows {
+
+        height: unset !important;
+    }
+
+    .children_imgbox {
+        width: unset !important;
+        height: unset !important;
+    }
+
+    .tv_video video {
+        position: unset !important;
+
+    }
+
+    .watch_video video {
+        position: unset !important;
+
+        height: unset !important;
+    }
+
+    .watch_video video {
+        position: unset !important;
+
+    }
+
+    .back_img {
+        height: unset !important;
+    }
+
+    .get_btn {
+        text-align: center;
+        margin: 2rem 0 !important;
+    }
+
+    .watch {
+        padding: 10px !important;
+    }
+
+    .our_tv {
+        padding: 0 0 2rem 0 !important;
+    }
+
+    .watch_tv_img {
+        width: unset !important;
+    }
+
+    .watch_video {
+
+        text-align: center;
+        height: unset;
+    }
+
+    .watch_content_box {
+        padding: 2rem !important;
+    }
+
+    .position_img {
+
+        width: unset !important;
+    }
+
+    .profile {
+        padding: unset !important;
+    }
+
+    .things {
+        text-align: center;
+        padding: 1rem 0 !important;
+
+    }
+
+    .icon_imgbox {
+
+        margin: auto !important;
+        text-align: center !important;
+        margin-bottom: 1rem !important;
+    }
+
+    .footer_address {
+        text-align: center;
+    }
+    .lang_img {
+        position: absolute;
+         top: unset !important; 
+         left: unset !important; 
+    }
+    
+}
